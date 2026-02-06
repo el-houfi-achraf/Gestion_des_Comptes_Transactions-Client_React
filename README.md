@@ -1,4 +1,4 @@
-# 🏦 Gestion des Comptes & Transactions - Client React
+# Gestion des Comptes & Transactions - Client React
 
 Application frontend moderne développée avec **React**, **Apollo Client** et **Tailwind CSS** pour consommer une API GraphQL de gestion bancaire.
 
